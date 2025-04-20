@@ -1,0 +1,64 @@
+body {
+    background: url(https://sun9-11.userapi.com/impf/NzYTULvBTFN0QHnywu4-md6jgr9yei1IlblEgg/_Ku6Mid4x5k.jpg?size=1920x768&quality=95&crop=0,490,2560,1022&sign=b23b2f4907b6c7c332f6b4215c3b11c1&type=cover_group);
+}
+
+
+
+.cccp {
+    width: 300px;
+    font-size: 17px;
+    background-color:  #ffffff;
+    color: rgb(0, 0, 0);
+    opacity: 0.65;
+    margin-left: 4px;
+    margin-top: 20px;
+    padding: 10px;
+    border: solid rgb(0, 0, 0) 1px;
+}
+
+
+.cccp1 {
+    width: 260px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 4px;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 17px;
+    border: solid #000000 1px;
+}
+
+span {
+    color: rgb(221, 255, 26);
+}
+
+
+.knopka {
+    width: 200px;
+    padding: 20px 10px;
+    margin: 40px;
+    font-size: 20px;
+    background-color: #888888;
+    color: black;
+    border-radius: 9px;
+    text-align: center;
+    border: solid black 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.cccp2 {
+    height: 100px;
+    margin: -20px;
+    font-size: 20px;
+    position: absolute;
+    top: 4300px;
+    left: 45px;
+    color: rgb(0, 0, 0);
+}
+
+h1, h2, hr {
+    width: 350px;
+}
